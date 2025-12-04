@@ -54,3 +54,26 @@ Perfect for SaaS startups, indie hackers, developers, and agencies who want a fa
 ---
 
 ## 📁 Folder Structure
+```
+/
+├─ components/
+│  ├─ Comparison.tsx
+│  ├─ Demo.tsx
+│  ├─ FAQ.tsx
+│  ├─ Features.tsx
+│  ├─ Footer.tsx
+│  ├─ Hero.tsx
+│  ├─ Navbar.tsx
+│  ├─ Pricing.tsx
+│  └─ Testimonials.tsx
+│
+├─ App.tsx
+├─ README.md
+├─ index.html
+├─ index.tsx
+├─ metadata.json
+├─ package.json
+├─ tsconfig.json
+├─ types.ts
+└─ vite.config.ts
+```
