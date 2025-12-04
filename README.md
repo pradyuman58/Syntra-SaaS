@@ -42,7 +42,7 @@ Perfect for SaaS startups, indie hackers, developers, and agencies who want a fa
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 - **React 18**
 - **Vite**
