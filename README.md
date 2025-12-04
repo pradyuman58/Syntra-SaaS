@@ -1,20 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Syntra SaaS — Modern React + Vite Landing Page Template
 
-# Run and deploy your AI Studio app
+A clean, modern, fully responsive **SaaS landing page** built with **React 18 + Vite**, TailwindCSS, smooth animations, and 10+ reusable components.
 
-This contains everything you need to run your app locally.
+Perfect for SaaS startups, indie hackers, developers, and agencies who want a fast, professional landing page without wasting time on UI work.
 
-View your app in AI Studio: https://ai.studio/apps/drive/12OhWy2hv6qSiH5HhKY7UxpIp73CqkVOM
+---
 
-## Run Locally
+## 🔗 Live Demo
 
-**Prerequisites:**  Node.js
+👉 **https://syntra-saa-s.vercel.app/**
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Features
+
+- ⚡ **Built with React 18 + Vite**
+- 🎨 **Beautiful UI with TailwindCSS**
+- ✨ **Smooth Framer Motion animations**
+- 🌓 **Dark & Light mode support**
+- 🧩 **10+ Reusable UI Components**
+- 📱 **Fully responsive (mobile → desktop)**
+- 📂 **Clean folder structure**
+- 🌐 **SEO-friendly**
+- 🚀 **Super fast build + blazing performance**
+- 🛠 **Easy to customize**
+
+---
+
+## 📦 Included Components
+
+- Navbar (with theme toggle)  
+- Hero Section  
+- Features Section  
+- Comparison Table  
+- Demo Section  
+- Testimonials  
+- Pricing Section  
+- FAQ Accordion  
+- Footer  
+- Reusable Button & Card UI elements  
+
+---
+
+## 🛠 Tech Stack
+
+- **React 18**
+- **Vite**
+- **TypeScript**
+- **TailwindCSS**
+- **Framer Motion**
+- **Lucide Icons**
+
+---
+
+## 📁 Folder Structure
