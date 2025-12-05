@@ -1,55 +1,26 @@
-# 🚀 Syntra SaaS — Modern React + Vite Landing Page Template
+# Syntra – Modern SaaS Landing Page Template (React + Vite)
 
-A clean, modern, fully responsive **SaaS landing page** built with **React 18 + Vite**, TailwindCSS, smooth animations, and 10+ reusable components.
-
-Perfect for SaaS startups, indie hackers, developers, and agencies who want a fast, professional landing page without wasting time on UI work.
+Syntra is a fully responsive, modern SaaS landing page template built with React and Vite.  
+It features clean UI components, smooth layouts, reusable sections, and is perfect for SaaS startups, product landing pages, modern websites, or promotional campaigns.
 
 ---
 
-## 🔗 Live Demo
-
-👉 **https://syntra-saa-s.vercel.app/**
+## 🚀 Demo
+Live Demo: https://syntra-saa-s.vercel.app/
 
 ---
 
 ## ✨ Features
 
-- ⚡ **Built with React 18 + Vite**
-- 🎨 **Beautiful UI with TailwindCSS**
-- ✨ **Smooth Framer Motion animations**
-- 🌓 **Dark & Light mode support**
-- 🧩 **10+ Reusable UI Components**
-- 📱 **Fully responsive (mobile → desktop)**
-- 📂 **Clean folder structure**
-- 🌐 **SEO-friendly**
-- 🚀 **Super fast build + blazing performance**
-- 🛠 **Easy to customize**
-
----
-
-## 📦 Included Components
-
-- Navbar (with theme toggle)  
-- Hero Section  
-- Features Section  
-- Comparison Table  
-- Demo Section  
-- Testimonials  
-- Pricing Section  
-- FAQ Accordion  
-- Footer  
-- Reusable Button & Card UI elements  
-
----
-
-## 🧰 Tech Stack
-
-- **React 18**
-- **Vite**
-- **TypeScript**
-- **TailwindCSS**
-- **Framer Motion**
-- **Lucide Icons**
+- ⚡ Built with React + Vite
+- 🎨 Modern and clean SaaS UI design
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 🧩 Reusable modular components
+- 📦 Clean folder structure
+- 🌙 Supports dark backgrounds and gradients
+- 🔧 Easy to customize
+- 🖼️ Hero, Features, Pricing, FAQ, Testimonials, Footer
+- 🚀 Fast development + production builds
 
 ---
 
@@ -77,3 +48,49 @@ Perfect for SaaS startups, indie hackers, developers, and agencies who want a fa
 ├─ types.ts
 └─ vite.config.ts
 ```
+---
+
+## ⚙️ Installation
+
+### 1. Install dependencies
+### 2. Run development server
+### 3. Build for production
+### 4. Preview production build
+
+---
+
+## 🛠 Customization
+
+You can customize:
+
+- Colors → inside components or CSS
+- Text → directly inside each component
+- Layout → modify App.tsx
+- SEO → edit index.html and metadata.json
+
+All components are modular and easy to edit.
+
+---
+
+## 🌐 Browser Support
+
+- Chrome  
+- Firefox  
+- Edge  
+- Safari  
+- Mobile Browsers  
+
+---
+
+## 📄 License
+
+This template is for **commercial use** with Codester regular and extended license terms.
+
+---
+
+## 📞 Support
+
+Basic template support is provided for:
+- Installation issues  
+- Missing files  
+- Bug fixes inside the template
