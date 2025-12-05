@@ -53,10 +53,16 @@ Live Demo: https://syntra-saa-s.vercel.app/
 ## ⚙️ Installation
 
 ### 1. Install dependencies
-### 2. Run development server
-### 3. Build for production
-### 4. Preview production build
+npm install
 
+### 2. Run development server
+npm run dev
+
+### 3. Build for production
+npm run build
+
+### 4. Preview production build
+npm run preview
 ---
 
 ## 🛠 Customization
